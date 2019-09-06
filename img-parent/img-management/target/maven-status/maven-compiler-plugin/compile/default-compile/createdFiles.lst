@@ -1,0 +1,9 @@
+com\ys\pojo\ImgExample$Criterion.class
+com\ys\pojo\Img.class
+com\ys\controller\ImgController.class
+com\ys\service\ImgService.class
+com\ys\pojo\ImgExample.class
+com\ys\pojo\ImgExample$Criteria.class
+com\ys\mapper\ImgMapper.class
+com\ys\pojo\ImgExample$GeneratedCriteria.class
+com\ys\service\impl\ImgServiceImpl.class
